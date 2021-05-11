@@ -125,7 +125,7 @@ Results are edge cached for 15 minutes.
 
 Returns circulation supply of the token based on burned tokens.
 
-Burn Address: https://bscscan.com/token/0xc35f46aAEb8aD17bCbAa78c03540FEffa44790Cb?a=0x000000000000000000000000000000000000dead
+Burn Address: https://bscscan.com/token/0xdeb9aca4f54abd9b82ca91b52fcccf869882b9fe?a=0x000000000000000000000000000000000000dead
 
 Results are edge cached for 15 minutes.
 
